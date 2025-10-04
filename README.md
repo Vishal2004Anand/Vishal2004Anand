@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vishal Anand
-**A passionate Software Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Software Engineer || DevOps Engineer **
 
 
 - 🔭 **I’m currently working on:** Enter your project info here

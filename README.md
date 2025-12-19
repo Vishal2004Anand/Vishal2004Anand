@@ -2,7 +2,7 @@
 **A passionate Software Engineer**
 
 
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on:** Enter your projec info here
 - 🌱 **I’m currently learning:** 
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
